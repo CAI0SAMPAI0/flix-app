@@ -1,0 +1,1 @@
+BASE_URL = 'https://flix-api-gvbd.onrender.com/api/v1/'
